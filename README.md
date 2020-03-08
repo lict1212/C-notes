@@ -1,0 +1,2 @@
+# C-notes
+Freshmen notes
